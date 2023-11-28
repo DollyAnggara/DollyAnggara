@@ -2,10 +2,9 @@
 
 <h3><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About Me </h3>
 
-- 
+- Hai! I'm Dolly Anggara
 - Studying informatics at Universitas Negeri Padang.
 - Currently Learning Java, Python, Web Development And Machine Learning
--  
 
 <h3> 🛠 &nbsp;My skill</h3>
 
