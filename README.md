@@ -1,5 +1,9 @@
 <h2> Hey there! I'm Dolly Anggara.</h2>
 
+<h1 align="center">
+  <img src="https://github.com/DollyAnggara/DollyAnggara/blob/95ccae0454a6d65e3ebc0159de8059242162834d/gif/1UEn.gif" width="500">
+  <br>
+
 <h3><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About Me </h3>
 
 - Hai! I'm Dolly Anggara
