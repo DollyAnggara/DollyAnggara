@@ -8,7 +8,7 @@
 
 - Hai! I'm Dolly Anggara
 - Studying informatics at Universitas Negeri Padang.
-- Currently Learning c, c++, Java, and Python.
+- Currently Learning c, c++, and Python.
 
 <h3> 🛠 &nbsp;My skill</h3>
 
